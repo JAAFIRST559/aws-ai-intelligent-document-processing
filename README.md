@@ -310,8 +310,6 @@ The dataset utilized in this guidance consists entirely of synthetic data. This 
 *Customers are responsible for making their own independent assessment of the information in this Guidance. This Guidance: (a) is for informational purposes only, (b) represents AWS current product offerings and practices, which are subject to change without notice, and (c) does not create any commitments or assurances from AWS and its affiliates, suppliers or licensors. AWS products or services are provided “as is” without warranties, representations, or conditions of any kind, whether express or implied. AWS responsibilities and liabilities to its customers are controlled by AWS agreements, and this Guidance is not part of, nor does it modify, any agreement between AWS and its customers.*
 
 
-## Authors 
-- Conor Manton
-- Erik Cordsen
-- Ed Branch
-- Irina Soy
+## Author 
+- Jasmine Ilakkia Neviskennedy
+[LinkedIn url](https://www.linkedin.com/in/jaafirst559-5a1b43222/)
